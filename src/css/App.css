@@ -1,0 +1,49 @@
+footer {
+  position: relative;
+  bottom: 0;
+  margin-bottom: 0.5rem;
+  margin-top: 2em;
+}
+
+/* Styles from the navbar */
+.nav-item{
+  font-size: large;
+}
+.nav-link{
+  color: aliceblue !important;
+}
+.form-search{
+  align-self: center;
+  position: relative;
+  margin-left: 8em;
+}
+
+/* Styles to data in the homepage */
+.homedata{
+  background-color: rgb(220, 252, 250);
+  font-style: italic;
+  padding: 0.5em;
+}
+
+.column{
+  float: left;
+  width: 50%;
+}
+
+.row-detail:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Split the screen in half */
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+

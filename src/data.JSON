@@ -1,0 +1,1604 @@
+  {
+        "vegetarian": false,
+        "vegan": false,
+        "glutenFree": false,
+        "dairyFree": true,
+        "veryHealthy": false,
+        "cheap": false,
+        "veryPopular": false,
+        "sustainable": false,
+        "weightWatcherSmartPoints": 15,
+        "gaps": "no",
+        "lowFodmap": false,
+        "aggregateLikes": 7,
+        "spoonacularScore": 68,
+        "healthScore": 18,
+        "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+        "license": "CC BY 3.0",
+        "sourceName": "Foodista",
+        "pricePerServing": 165.4,
+        "extendedIngredients": [
+            {
+                "id": 10123,
+                "aisle": "Meat",
+                "image": "raw-bacon.png",
+                "consistency": "solid",
+                "name": "bacon",
+                "nameClean": "applewood smoked bacon",
+                "original": "1 rasher bacon, rind removed, very finely chopped",
+                "originalName": "rasher bacon, rind removed, very finely chopped",
+                "amount": 1,
+                "unit": "",
+                "meta": [
+                    "very finely chopped"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "",
+                        "unitLong": ""
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "",
+                        "unitLong": ""
+                    }
+                }
+            },
+            {
+                "id": 10093663,
+                "aisle": "Ethnic Foods;Spices and Seasonings",
+                "image": "garam-masala.jpg",
+                "consistency": "solid",
+                "name": "baharat spice mix",
+                "nameClean": "baharat",
+                "original": "1 tsp baharat spice mix*",
+                "originalName": "baharat spice mix",
+                "amount": 1,
+                "unit": "tsp",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "tsp",
+                        "unitLong": "teaspoon"
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "tsp",
+                        "unitLong": "teaspoon"
+                    }
+                }
+            },
+            {
+                "id": 10020444,
+                "aisle": "Pasta and Rice",
+                "image": "rice-white-long-grain-or-basmatii-cooked.jpg",
+                "consistency": "solid",
+                "name": "basmati rice",
+                "nameClean": "basmati rice",
+                "original": "1 ½ cups basmati rice",
+                "originalName": "basmati rice",
+                "amount": 1.5,
+                "unit": "cups",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 1.5,
+                        "unitShort": "cups",
+                        "unitLong": "cups"
+                    },
+                    "metric": {
+                        "amount": 354.882,
+                        "unitShort": "ml",
+                        "unitLong": "milliliters"
+                    }
+                }
+            },
+            {
+                "id": 1002030,
+                "aisle": "Spices and Seasonings",
+                "image": "pepper.jpg",
+                "consistency": "solid",
+                "name": "black pepper",
+                "nameClean": "black pepper",
+                "original": "½ tsp black pepper, cracked",
+                "originalName": "black pepper, cracked",
+                "amount": 0.5,
+                "unit": "tsp",
+                "meta": [
+                    "black"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 0.5,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    },
+                    "metric": {
+                        "amount": 0.5,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    }
+                }
+            },
+            {
+                "id": 10011693,
+                "aisle": "Canned and Jarred",
+                "image": "tomatoes-canned.png",
+                "consistency": "solid",
+                "name": "canned tomatoes",
+                "nameClean": "canned tomatoes",
+                "original": "1 can chopped tomatoes",
+                "originalName": "chopped tomatoes",
+                "amount": 1,
+                "unit": "can",
+                "meta": [
+                    "chopped"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "can",
+                        "unitLong": "can"
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "can",
+                        "unitLong": "can"
+                    }
+                }
+            },
+            {
+                "id": 11477,
+                "aisle": "Produce",
+                "image": "zucchini.jpg",
+                "consistency": "solid",
+                "name": "courgette",
+                "nameClean": "zucchini",
+                "original": "1 small courgette, coarsely chopped",
+                "originalName": "courgette, coarsely chopped",
+                "amount": 1,
+                "unit": "small",
+                "meta": [
+                    "coarsely chopped"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "small",
+                        "unitLong": "small"
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "small",
+                        "unitLong": "small"
+                    }
+                }
+            },
+            {
+                "id": 1002014,
+                "aisle": "Spices and Seasonings",
+                "image": "ground-cumin.jpg",
+                "consistency": "solid",
+                "name": "cumin",
+                "nameClean": "cumin",
+                "original": "½ tsp cumin",
+                "originalName": "cumin",
+                "amount": 0.5,
+                "unit": "tsp",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 0.5,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    },
+                    "metric": {
+                        "amount": 0.5,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    }
+                }
+            },
+            {
+                "id": 2039,
+                "aisle": "Spices and Seasonings",
+                "image": "summer-savory.jpg",
+                "consistency": "solid",
+                "name": "dry savoury",
+                "nameClean": "ground savory",
+                "original": "2 Tbs dry savoury",
+                "originalName": "dry savoury",
+                "amount": 2,
+                "unit": "Tbs",
+                "meta": [
+                    "dry"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 2,
+                        "unitShort": "Tbs",
+                        "unitLong": "Tbs"
+                    },
+                    "metric": {
+                        "amount": 2,
+                        "unitShort": "Tbs",
+                        "unitLong": "Tbs"
+                    }
+                }
+            },
+            {
+                "id": 1123,
+                "aisle": "Milk, Eggs, Other Dairy",
+                "image": "egg.png",
+                "consistency": "solid",
+                "name": "egg",
+                "nameClean": "egg",
+                "original": "1 egg",
+                "originalName": "egg",
+                "amount": 1,
+                "unit": "",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "",
+                        "unitLong": ""
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "",
+                        "unitLong": ""
+                    }
+                }
+            },
+            {
+                "id": 20081,
+                "aisle": "Baking",
+                "image": "flour.png",
+                "consistency": "solid",
+                "name": "flour",
+                "nameClean": "wheat flour",
+                "original": "½ cup of flour",
+                "originalName": "flour",
+                "amount": 0.5,
+                "unit": "cup",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 0.5,
+                        "unitShort": "cups",
+                        "unitLong": "cups"
+                    },
+                    "metric": {
+                        "amount": 118.294,
+                        "unitShort": "ml",
+                        "unitLong": "milliliters"
+                    }
+                }
+            },
+            {
+                "id": 11215,
+                "aisle": "Produce",
+                "image": "garlic.png",
+                "consistency": "solid",
+                "name": "garlic",
+                "nameClean": "garlic",
+                "original": "1 clove garlic, finely chopped",
+                "originalName": "garlic, finely chopped",
+                "amount": 1,
+                "unit": "clove",
+                "meta": [
+                    "finely chopped"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "clove",
+                        "unitLong": "clove"
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "clove",
+                        "unitLong": "clove"
+                    }
+                }
+            },
+            {
+                "id": 11215,
+                "aisle": "Produce",
+                "image": "garlic.png",
+                "consistency": "solid",
+                "name": "garlic",
+                "nameClean": "garlic",
+                "original": "2 cloves garlic, chopped",
+                "originalName": "garlic, chopped",
+                "amount": 2,
+                "unit": "cloves",
+                "meta": [
+                    "chopped"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 2,
+                        "unitShort": "cloves",
+                        "unitLong": "cloves"
+                    },
+                    "metric": {
+                        "amount": 2,
+                        "unitShort": "cloves",
+                        "unitLong": "cloves"
+                    }
+                }
+            },
+            {
+                "id": 1022006,
+                "aisle": "Spices and Seasonings",
+                "image": "cardamom.jpg",
+                "consistency": "solid",
+                "name": "green cardamom pods",
+                "nameClean": "green cardamoms",
+                "original": "4 green cardamom pods",
+                "originalName": "green cardamom pods",
+                "amount": 4,
+                "unit": "",
+                "meta": [
+                    "green"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 4,
+                        "unitShort": "",
+                        "unitLong": ""
+                    },
+                    "metric": {
+                        "amount": 4,
+                        "unitShort": "",
+                        "unitLong": ""
+                    }
+                }
+            },
+            {
+                "id": 1012010,
+                "aisle": "Spices and Seasonings",
+                "image": "cinnamon.jpg",
+                "consistency": "solid",
+                "name": "ground cinnamon",
+                "nameClean": "ground cinnamon",
+                "original": "2 tsp ground cinnamon",
+                "originalName": "ground cinnamon",
+                "amount": 2,
+                "unit": "tsp",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 2,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    },
+                    "metric": {
+                        "amount": 2,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    }
+                }
+            },
+            {
+                "id": 1002014,
+                "aisle": "Spices and Seasonings",
+                "image": "ground-cumin.jpg",
+                "consistency": "solid",
+                "name": "ground cumin",
+                "nameClean": "cumin",
+                "original": "4 tsp ground cumin",
+                "originalName": "ground cumin",
+                "amount": 4,
+                "unit": "tsp",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 4,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    },
+                    "metric": {
+                        "amount": 4,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    }
+                }
+            },
+            {
+                "id": 2025,
+                "aisle": "Spices and Seasonings",
+                "image": "ground-nutmeg.jpg",
+                "consistency": "solid",
+                "name": "ground nutmeg",
+                "nameClean": "nutmeg",
+                "original": "2 tsp ground nutmeg",
+                "originalName": "ground nutmeg",
+                "amount": 2,
+                "unit": "tsp",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 2,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    },
+                    "metric": {
+                        "amount": 2,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    }
+                }
+            },
+            {
+                "id": 1002030,
+                "aisle": "Spices and Seasonings",
+                "image": "pepper.jpg",
+                "consistency": "solid",
+                "name": "ground pepper",
+                "nameClean": "black pepper",
+                "original": "2 Tbs ground black pepper",
+                "originalName": "ground black pepper",
+                "amount": 2,
+                "unit": "Tbs",
+                "meta": [
+                    "black"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 2,
+                        "unitShort": "Tbs",
+                        "unitLong": "Tbs"
+                    },
+                    "metric": {
+                        "amount": 2,
+                        "unitShort": "Tbs",
+                        "unitLong": "Tbs"
+                    }
+                }
+            },
+            {
+                "id": 16069,
+                "aisle": "Pasta and Rice;Canned and Jarred;Produce",
+                "image": "lentils-green.jpg",
+                "consistency": "solid",
+                "name": "lentils",
+                "nameClean": "legumes",
+                "original": "½ cup lentils",
+                "originalName": "lentils",
+                "amount": 0.5,
+                "unit": "cup",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 0.5,
+                        "unitShort": "cups",
+                        "unitLong": "cups"
+                    },
+                    "metric": {
+                        "amount": 118.294,
+                        "unitShort": "ml",
+                        "unitLong": "milliliters"
+                    }
+                }
+            },
+            {
+                "id": 10023572,
+                "aisle": "Meat",
+                "image": "fresh-ground-beef.jpg",
+                "consistency": "solid",
+                "name": "mince beef",
+                "nameClean": "ground chuck",
+                "original": "400g beef mince",
+                "originalName": "beef mince",
+                "amount": 400,
+                "unit": "g",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 14.11,
+                        "unitShort": "oz",
+                        "unitLong": "ounces"
+                    },
+                    "metric": {
+                        "amount": 400,
+                        "unitShort": "g",
+                        "unitLong": "grams"
+                    }
+                }
+            },
+            {
+                "id": 2064,
+                "aisle": "Produce;Spices and Seasonings",
+                "image": "mint.jpg",
+                "consistency": "solid",
+                "name": "mint",
+                "nameClean": "mint",
+                "original": "4 tsp dry mint",
+                "originalName": "dry mint",
+                "amount": 4,
+                "unit": "tsp",
+                "meta": [
+                    "dry"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 4,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    },
+                    "metric": {
+                        "amount": 4,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    }
+                }
+            },
+            {
+                "id": 11260,
+                "aisle": "Produce",
+                "image": "mushrooms-white.jpg",
+                "consistency": "solid",
+                "name": "mushrooms",
+                "nameClean": "fresh mushrooms",
+                "original": "2 large mushrooms, coarsely chopped",
+                "originalName": "mushrooms, coarsely chopped",
+                "amount": 2,
+                "unit": "large",
+                "meta": [
+                    "coarsely chopped"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 2,
+                        "unitShort": "large",
+                        "unitLong": "larges"
+                    },
+                    "metric": {
+                        "amount": 2,
+                        "unitShort": "large",
+                        "unitLong": "larges"
+                    }
+                }
+            },
+            {
+                "id": 4053,
+                "aisle": "Oil, Vinegar, Salad Dressing",
+                "image": "olive-oil.jpg",
+                "consistency": "liquid",
+                "name": "olive oil",
+                "nameClean": "olive oil",
+                "original": "Olive oil",
+                "originalName": "Olive oil",
+                "amount": 8,
+                "unit": "servings",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 8,
+                        "unitShort": "servings",
+                        "unitLong": "servings"
+                    },
+                    "metric": {
+                        "amount": 8,
+                        "unitShort": "servings",
+                        "unitLong": "servings"
+                    }
+                }
+            },
+            {
+                "id": 11282,
+                "aisle": "Produce",
+                "image": "brown-onion.png",
+                "consistency": "solid",
+                "name": "onion",
+                "nameClean": "onion",
+                "original": "1 onion, chopped",
+                "originalName": "onion, chopped",
+                "amount": 1,
+                "unit": "",
+                "meta": [
+                    "chopped"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "",
+                        "unitLong": ""
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "",
+                        "unitLong": ""
+                    }
+                }
+            },
+            {
+                "id": 11821,
+                "aisle": "Produce",
+                "image": "red-pepper.jpg",
+                "consistency": "solid",
+                "name": "red capsicum",
+                "nameClean": "red pepper",
+                "original": "1 red capsicum, chopped",
+                "originalName": "red capsicum, chopped",
+                "amount": 1,
+                "unit": "",
+                "meta": [
+                    "red",
+                    "chopped"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "",
+                        "unitLong": ""
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "",
+                        "unitLong": ""
+                    }
+                }
+            },
+            {
+                "id": 2047,
+                "aisle": "Spices and Seasonings",
+                "image": "salt.jpg",
+                "consistency": "solid",
+                "name": "salt",
+                "nameClean": "table salt",
+                "original": "½ tsp salt",
+                "originalName": "salt",
+                "amount": 0.5,
+                "unit": "tsp",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 0.5,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    },
+                    "metric": {
+                        "amount": 0.5,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    }
+                }
+            },
+            {
+                "id": 2047,
+                "aisle": "Spices and Seasonings",
+                "image": "salt.jpg",
+                "consistency": "solid",
+                "name": "salt",
+                "nameClean": "table salt",
+                "original": "Large pinch salt",
+                "originalName": "Large salt",
+                "amount": 1,
+                "unit": "pinch",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "pinch",
+                        "unitLong": "pinch"
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "pinch",
+                        "unitLong": "pinch"
+                    }
+                }
+            },
+            {
+                "id": 2047,
+                "aisle": "Spices and Seasonings",
+                "image": "salt.jpg",
+                "consistency": "solid",
+                "name": "salt",
+                "nameClean": "table salt",
+                "original": "1 tsp salt",
+                "originalName": "salt",
+                "amount": 1,
+                "unit": "tsp",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "tsp",
+                        "unitLong": "teaspoon"
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "tsp",
+                        "unitLong": "teaspoon"
+                    }
+                }
+            },
+            {
+                "id": 14412,
+                "aisle": "Beverages",
+                "image": "water.png",
+                "consistency": "liquid",
+                "name": "water",
+                "nameClean": "water",
+                "original": "3 cups water",
+                "originalName": "water",
+                "amount": 3,
+                "unit": "cups",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 3,
+                        "unitShort": "cups",
+                        "unitLong": "cups"
+                    },
+                    "metric": {
+                        "amount": 709.764,
+                        "unitShort": "ml",
+                        "unitLong": "milliliters"
+                    }
+                }
+            }
+        ],
+        "id": 664087,
+        "title": "Turkish Baharat Meatballs with Lentil Pilaf",
+        "readyInMinutes": 45,
+        "servings": 8,
+        "sourceUrl": "http://www.foodista.com/recipe/J6HGBYYC/turkish-baharat-meatballs-with-lentil-pilaf",
+        "summary": "Turkish Baharat Meatballs with Lentil Pilaf might be just the main course you are searching for. One serving contains <b>517 calories</b>, <b>18g of protein</b>, and <b>27g of fat</b>. For <b>$1.48 per serving</b>, this recipe <b>covers 22%</b> of your daily requirements of vitamins and minerals. A mixture of rasher bacon, mushrooms, ground cinnamon, and a handful of other ingredients are all it takes to make this recipe so scrumptious. To use up the ground nutmeg you could follow this main course with the <a href=\"https://spoonacular.com/recipes/blueberry-nutmeg-cake-511099\">Blueberry Nutmeg Cake</a> as a dessert. 7 people have made this recipe and would make it again. It is a good option if you're following a <b>dairy free</b> diet. From preparation to the plate, this recipe takes around <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 70%</b>. This score is solid. Try <a href=\"https://spoonacular.com/recipes/turkish-vegan-lentil-meatballs-841176\">Turkish Vegan Lentil Meatballs</a>, <a href=\"https://spoonacular.com/recipes/turkish-pilaf-40192\">Turkish Pilaf</a>, and <a href=\"https://spoonacular.com/recipes/savory-turkish-pilaf-98015\">Savory Turkish Pilaf</a> for similar recipes.",
+        "cuisines": [],
+        "dishTypes": [
+            "lunch",
+            "main course",
+            "main dish",
+            "dinner"
+        ],
+        "diets": [
+            "dairy free"
+        ],
+        "occasions": [],
+        "instructions": "<ol><li>Place onion, capsicum and garlic in a medium-large saucepan with some olive oil to saute for 2 minutes.</li><li>Add mushrooms and courgette, stir.</li><li>Add the tomatoes and the spices, cover and simmer on low heat for 10 minutes.</li><li>meanwhile combine all the meatball ingredients in a large bowl and mix until smooth.</li><li>Using a tablespoon, scoop out a measure of meat and roll into a ball with your hands. Repeat until youve used all the meat.</li><li>Place the meatballs in the saucepan, then cover and leave to simmer for about 15 minutes. Just before youre ready to serve, uncover the saucepan and increase the heat to reduce the sauce to the desired thickness.</li><li>For the lentil pilaf bring the water to boil, then add the remaining ingredients, stir, cover and reduce heat to low. Allow to cook for at least 20 minutes before lifting the lid to check consistency. When done, all the liquid should have been absorbed by the rice/lentils, which should be soft.</li><li>Serve the meatballs and the sauce on a bed of the lentil rice with a big dollop of yoghurt.</li></ol>",
+        "analyzedInstructions": [
+            {
+                "name": "",
+                "steps": [
+                    {
+                        "number": 1,
+                        "step": "Place onion, capsicum and garlic in a medium-large saucepan with some olive oil to saute for 2 minutes.",
+                        "ingredients": [
+                            {
+                                "id": 4053,
+                                "name": "olive oil",
+                                "localizedName": "olive oil",
+                                "image": "olive-oil.jpg"
+                            },
+                            {
+                                "id": 10211821,
+                                "name": "bell pepper",
+                                "localizedName": "bell pepper",
+                                "image": "bell-pepper-orange.png"
+                            },
+                            {
+                                "id": 11215,
+                                "name": "garlic",
+                                "localizedName": "garlic",
+                                "image": "garlic.png"
+                            },
+                            {
+                                "id": 11282,
+                                "name": "onion",
+                                "localizedName": "onion",
+                                "image": "brown-onion.png"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404669,
+                                "name": "sauce pan",
+                                "localizedName": "sauce pan",
+                                "image": "sauce-pan.jpg"
+                            }
+                        ],
+                        "length": {
+                            "number": 2,
+                            "unit": "minutes"
+                        }
+                    },
+                    {
+                        "number": 2,
+                        "step": "Add mushrooms and courgette, stir.",
+                        "ingredients": [
+                            {
+                                "id": 11477,
+                                "name": "zucchini",
+                                "localizedName": "zucchini",
+                                "image": "zucchini.jpg"
+                            },
+                            {
+                                "id": 11260,
+                                "name": "mushrooms",
+                                "localizedName": "mushrooms",
+                                "image": "mushrooms.png"
+                            }
+                        ],
+                        "equipment": []
+                    },
+                    {
+                        "number": 3,
+                        "step": "Add the tomatoes and the spices, cover and simmer on low heat for 10 minutes.meanwhile combine all the meatball ingredients in a large bowl and mix until smooth.Using a tablespoon, scoop out a measure of meat and roll into a ball with your hands. Repeat until youve used all the meat.",
+                        "ingredients": [
+                            {
+                                "id": 10110219,
+                                "name": "meatballs",
+                                "localizedName": "meatballs",
+                                "image": "meatballs.png"
+                            },
+                            {
+                                "id": 11529,
+                                "name": "tomato",
+                                "localizedName": "tomato",
+                                "image": "tomato.png"
+                            },
+                            {
+                                "id": 2035,
+                                "name": "spices",
+                                "localizedName": "spices",
+                                "image": "spices.png"
+                            },
+                            {
+                                "id": 1065062,
+                                "name": "meat",
+                                "localizedName": "meat",
+                                "image": "whole-chicken.jpg"
+                            },
+                            {
+                                "id": 0,
+                                "name": "roll",
+                                "localizedName": "roll",
+                                "image": "dinner-yeast-rolls.jpg"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404783,
+                                "name": "bowl",
+                                "localizedName": "bowl",
+                                "image": "bowl.jpg"
+                            }
+                        ],
+                        "length": {
+                            "number": 10,
+                            "unit": "minutes"
+                        }
+                    },
+                    {
+                        "number": 4,
+                        "step": "Place the meatballs in the saucepan, then cover and leave to simmer for about 15 minutes. Just before youre ready to serve, uncover the saucepan and increase the heat to reduce the sauce to the desired thickness.For the lentil pilaf bring the water to boil, then add the remaining ingredients, stir, cover and reduce heat to low. Allow to cook for at least 20 minutes before lifting the lid to check consistency. When done, all the liquid should have been absorbed by the rice/lentils, which should be soft.",
+                        "ingredients": [
+                            {
+                                "id": 10110219,
+                                "name": "meatballs",
+                                "localizedName": "meatballs",
+                                "image": "meatballs.png"
+                            },
+                            {
+                                "id": 10316069,
+                                "name": "lentils",
+                                "localizedName": "lentils",
+                                "image": "lentils-brown.jpg"
+                            },
+                            {
+                                "id": 0,
+                                "name": "sauce",
+                                "localizedName": "sauce",
+                                "image": ""
+                            },
+                            {
+                                "id": 14412,
+                                "name": "water",
+                                "localizedName": "water",
+                                "image": "water.png"
+                            },
+                            {
+                                "id": 20444,
+                                "name": "rice",
+                                "localizedName": "rice",
+                                "image": "uncooked-white-rice.png"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404669,
+                                "name": "sauce pan",
+                                "localizedName": "sauce pan",
+                                "image": "sauce-pan.jpg"
+                            }
+                        ],
+                        "length": {
+                            "number": 35,
+                            "unit": "minutes"
+                        }
+                    },
+                    {
+                        "number": 5,
+                        "step": "Serve the meatballs and the sauce on a bed of the lentil rice with a big dollop of yoghurt.",
+                        "ingredients": [
+                            {
+                                "id": 10110219,
+                                "name": "meatballs",
+                                "localizedName": "meatballs",
+                                "image": "meatballs.png"
+                            },
+                            {
+                                "id": 1116,
+                                "name": "yogurt",
+                                "localizedName": "yogurt",
+                                "image": "plain-yogurt.jpg"
+                            },
+                            {
+                                "id": 10316069,
+                                "name": "lentils",
+                                "localizedName": "lentils",
+                                "image": "lentils-brown.jpg"
+                            },
+                            {
+                                "id": 0,
+                                "name": "sauce",
+                                "localizedName": "sauce",
+                                "image": ""
+                            },
+                            {
+                                "id": 20444,
+                                "name": "rice",
+                                "localizedName": "rice",
+                                "image": "uncooked-white-rice.png"
+                            }
+                        ],
+                        "equipment": []
+                    }
+                ]
+            }
+        ],
+        "originalId": null,
+        "spoonacularSourceUrl": "https://spoonacular.com/turkish-baharat-meatballs-with-lentil-pilaf-664087"
+    },
+    {
+        "vegetarian": false,
+        "vegan": false,
+        "glutenFree": true,
+        "dairyFree": true,
+        "veryHealthy": false,
+        "cheap": false,
+        "veryPopular": false,
+        "sustainable": false,
+        "weightWatcherSmartPoints": 4,
+        "gaps": "no",
+        "lowFodmap": false,
+        "aggregateLikes": 58,
+        "spoonacularScore": 59,
+        "healthScore": 10,
+        "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+        "license": "CC BY 3.0",
+        "sourceName": "Foodista",
+        "pricePerServing": 268.68,
+        "extendedIngredients": [
+            {
+                "id": 4582,
+                "aisle": "Oil, Vinegar, Salad Dressing",
+                "image": "vegetable-oil.jpg",
+                "consistency": "liquid",
+                "name": "canola oil",
+                "nameClean": "cooking oil",
+                "original": "2 tablespoons canola oil",
+                "originalName": "canola oil",
+                "amount": 2,
+                "unit": "tablespoons",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 2,
+                        "unitShort": "Tbsps",
+                        "unitLong": "Tbsps"
+                    },
+                    "metric": {
+                        "amount": 2,
+                        "unitShort": "Tbsps",
+                        "unitLong": "Tbsps"
+                    }
+                }
+            },
+            {
+                "id": 15270,
+                "aisle": "Seafood",
+                "image": "shrimp.png",
+                "consistency": "solid",
+                "name": "shrimp",
+                "nameClean": "shrimp",
+                "original": "1 pound uncooked large shrimp (20/25 count per pound), peeled and deveined",
+                "originalName": "uncooked large shrimp (20/25 count per pound), peeled and deveined",
+                "amount": 1,
+                "unit": "pound",
+                "meta": [
+                    "deveined",
+                    "uncooked",
+                    "peeled",
+                    "per pound),  and "
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "lb",
+                        "unitLong": "pound"
+                    },
+                    "metric": {
+                        "amount": 453.592,
+                        "unitShort": "g",
+                        "unitLong": "grams"
+                    }
+                }
+            },
+            {
+                "id": 11821,
+                "aisle": "Produce",
+                "image": "red-pepper.jpg",
+                "consistency": "solid",
+                "name": "red bell pepper",
+                "nameClean": "red pepper",
+                "original": "1 red bell pepper, sliced (about 1 cup)",
+                "originalName": "red bell pepper, sliced (about",
+                "amount": 1,
+                "unit": "cup",
+                "meta": [
+                    "red",
+                    "sliced"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "cup",
+                        "unitLong": "cup"
+                    },
+                    "metric": {
+                        "amount": 236.588,
+                        "unitShort": "ml",
+                        "unitLong": "milliliters"
+                    }
+                }
+            },
+            {
+                "id": 10511282,
+                "aisle": "Produce",
+                "image": "brown-onion.png",
+                "consistency": "solid",
+                "name": "yellow onion",
+                "nameClean": "yellow onion",
+                "original": "1 large yellow onion, sliced (about 1 cup)",
+                "originalName": "large yellow onion, sliced (about",
+                "amount": 1,
+                "unit": "cup",
+                "meta": [
+                    "yellow",
+                    "sliced"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "cup",
+                        "unitLong": "cup"
+                    },
+                    "metric": {
+                        "amount": 236.588,
+                        "unitShort": "ml",
+                        "unitLong": "milliliters"
+                    }
+                }
+            },
+            {
+                "id": 11215,
+                "aisle": "Produce",
+                "image": "garlic.png",
+                "consistency": "solid",
+                "name": "garlic",
+                "nameClean": "garlic",
+                "original": "2 cloves garlic, minced",
+                "originalName": "garlic, minced",
+                "amount": 2,
+                "unit": "cloves",
+                "meta": [
+                    "minced"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 2,
+                        "unitShort": "cloves",
+                        "unitLong": "cloves"
+                    },
+                    "metric": {
+                        "amount": 2,
+                        "unitShort": "cloves",
+                        "unitLong": "cloves"
+                    }
+                }
+            },
+            {
+                "id": 11216,
+                "aisle": "Produce;Ethnic Foods;Spices and Seasonings",
+                "image": "ginger.png",
+                "consistency": "solid",
+                "name": "fresh ginger root",
+                "nameClean": "ginger",
+                "original": "1 (1-inch) piece fresh ginger root, peeled and minced (about 1 tablespoon)",
+                "originalName": "fresh ginger root, peeled and minced (about 1 tablespoon)",
+                "amount": 1,
+                "unit": "inch",
+                "meta": [
+                    "fresh",
+                    "minced",
+                    "peeled",
+                    "( 1 tablespoon)"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "inch",
+                        "unitLong": "inch"
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "inch",
+                        "unitLong": "inch"
+                    }
+                }
+            },
+            {
+                "id": 1032009,
+                "aisle": "Spices and Seasonings",
+                "image": "red-pepper-flakes.jpg",
+                "consistency": "solid",
+                "name": "crushed red pepper",
+                "nameClean": "red pepper flakes",
+                "original": "1/4 teaspoon crushed red pepper",
+                "originalName": "crushed red pepper",
+                "amount": 0.25,
+                "unit": "teaspoon",
+                "meta": [
+                    "red",
+                    "crushed"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 0.25,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    },
+                    "metric": {
+                        "amount": 0.25,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    }
+                }
+            },
+            {
+                "id": 1006615,
+                "aisle": "Canned and Jarred",
+                "image": "chicken-broth.png",
+                "consistency": "liquid",
+                "name": "broth",
+                "nameClean": "stock",
+                "original": "1 packet Swanson® Flavor Concentrated Seafood Broth",
+                "originalName": "Swanson® Flavor Concentrated Seafood Broth",
+                "amount": 1,
+                "unit": "packet",
+                "meta": [
+                    "swanson®"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "pkt",
+                        "unitLong": "packet"
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "pkt",
+                        "unitLong": "packet"
+                    }
+                }
+            },
+            {
+                "id": 16124,
+                "aisle": "Ethnic Foods;Condiments",
+                "image": "soy-sauce.jpg",
+                "consistency": "liquid",
+                "name": "soy sauce",
+                "nameClean": "soy sauce",
+                "original": "1 tablespoon soy sauce",
+                "originalName": "soy sauce",
+                "amount": 1,
+                "unit": "tablespoon",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "Tbsp",
+                        "unitLong": "Tbsp"
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "Tbsp",
+                        "unitLong": "Tbsp"
+                    }
+                }
+            },
+            {
+                "id": 19335,
+                "aisle": "Baking",
+                "image": "sugar-in-bowl.png",
+                "consistency": "solid",
+                "name": "sugar",
+                "nameClean": "sugar",
+                "original": "1 teaspoon sugar",
+                "originalName": "sugar",
+                "amount": 1,
+                "unit": "teaspoon",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "tsp",
+                        "unitLong": "teaspoon"
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "tsp",
+                        "unitLong": "teaspoon"
+                    }
+                }
+            },
+            {
+                "id": 14412,
+                "aisle": "Beverages",
+                "image": "water.png",
+                "consistency": "liquid",
+                "name": "water",
+                "nameClean": "water",
+                "original": "1/4 cup water",
+                "originalName": "water",
+                "amount": 0.25,
+                "unit": "cup",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 0.25,
+                        "unitShort": "cups",
+                        "unitLong": "cups"
+                    },
+                    "metric": {
+                        "amount": 59.147,
+                        "unitShort": "ml",
+                        "unitLong": "milliliters"
+                    }
+                }
+            },
+            {
+                "id": 4058,
+                "aisle": "Ethnic Foods",
+                "image": "sesame-oil.png",
+                "consistency": "liquid",
+                "name": "sesame oil",
+                "nameClean": "sesame oil",
+                "original": "1/4 teaspoon sesame oil",
+                "originalName": "sesame oil",
+                "amount": 0.25,
+                "unit": "teaspoon",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 0.25,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    },
+                    "metric": {
+                        "amount": 0.25,
+                        "unitShort": "tsps",
+                        "unitLong": "teaspoons"
+                    }
+                }
+            },
+            {
+                "id": 12023,
+                "aisle": "Ethnic Foods;Spices and Seasonings",
+                "image": "sesame-seeds.png",
+                "consistency": "solid",
+                "name": "sesame seeds",
+                "nameClean": "sesame seeds",
+                "original": "1 teaspoon sesame seeds",
+                "originalName": "sesame seeds",
+                "amount": 1,
+                "unit": "teaspoon",
+                "meta": [],
+                "measures": {
+                    "us": {
+                        "amount": 1,
+                        "unitShort": "tsp",
+                        "unitLong": "teaspoon"
+                    },
+                    "metric": {
+                        "amount": 1,
+                        "unitShort": "tsp",
+                        "unitLong": "teaspoon"
+                    }
+                }
+            },
+            {
+                "id": 11291,
+                "aisle": "Produce",
+                "image": "spring-onions.jpg",
+                "consistency": "solid",
+                "name": "green onion",
+                "nameClean": "spring onions",
+                "original": "1 green onion, sliced (about 2 tablespoons)",
+                "originalName": "green onion, sliced (about",
+                "amount": 2,
+                "unit": "tablespoons",
+                "meta": [
+                    "sliced"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 2,
+                        "unitShort": "Tbsps",
+                        "unitLong": "Tbsps"
+                    },
+                    "metric": {
+                        "amount": 2,
+                        "unitShort": "Tbsps",
+                        "unitLong": "Tbsps"
+                    }
+                }
+            }
+        ],
+        "id": 631748,
+        "title": "Asian Shrimp Stir-Fry",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "sourceUrl": "https://www.foodista.com/recipe/GK6SWY26/asian-shrimp-stir-fry",
+        "image": "https://spoonacular.com/recipeImages/631748-556x370.jpg",
+        "imageType": "jpg",
+        "summary": "Asian Shrimp Stir-Fry requires around <b>about 45 minutes</b> from start to finish. One serving contains <b>219 calories</b>, <b>25g of protein</b>, and <b>9g of fat</b>. This recipe serves 4. For <b>$2.69 per serving</b>, this recipe <b>covers 18%</b> of your daily requirements of vitamins and minerals. 58 people were impressed by this recipe. If you have ginger root, pepper, bell pepper, and a few other ingredients on hand, you can make it. It works well as an Asian main course. It is a good option if you're following a <b>gluten free, dairy free, and pescatarian</b> diet. It is brought to you by Foodista. Overall, this recipe earns a <b>good spoonacular score of 57%</b>. <a href=\"https://spoonacular.com/recipes/asian-shrimp-stir-fry-545079\">Asian Shrimp Stir-Fry</a>, <a href=\"https://spoonacular.com/recipes/asian-shrimp-edamame-stir-fry-728847\">Asian Shrimp Edamame Stir-Fry</a>, and <a href=\"https://spoonacular.com/recipes/asian-zucchini-noodle-stir-fry-with-shrimp-629410\">Asian Zucchini Noodle Stir-Fry with Shrimp</a> are very similar to this recipe.",
+        "cuisines": [
+            "Asian"
+        ],
+        "dishTypes": [
+            "lunch",
+            "main course",
+            "main dish",
+            "dinner"
+        ],
+        "diets": [
+            "gluten free",
+            "dairy free",
+            "pescatarian"
+        ],
+        "occasions": [],
+        "instructions": "Heat the oil in a 12-inch skillet over medium-high heat. Add the shrimp and stir-fry for 3 minutes or until cooked through. Remove the shrimp from the skillet.\nAdd the red bell pepper and yellow onion to the skillet and stir-fry for 2 minutes or until the vegetables are tender-crisp.\nAdd the garlic, ginger root and crushed red pepper to the skillet and stir-fry for 30 seconds. Return the shrimp to the skillet. Stir in the concentrated broth, soy sauce, sugar and water and cook for 1 minute or until the mixture is hot. Remove the skillet from the heat and stir in the sesame oil. Sprinkle the shrimp mixture with the sesame seeds and green onion.",
+        "analyzedInstructions": [
+            {
+                "name": "",
+                "steps": [
+                    {
+                        "number": 1,
+                        "step": "Heat the oil in a 12-inch skillet over medium-high heat.",
+                        "ingredients": [
+                            {
+                                "id": 4582,
+                                "name": "cooking oil",
+                                "localizedName": "cooking oil",
+                                "image": "vegetable-oil.jpg"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404645,
+                                "name": "frying pan",
+                                "localizedName": "frying pan",
+                                "image": "pan.png"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "step": "Add the shrimp and stir-fry for 3 minutes or until cooked through.",
+                        "ingredients": [
+                            {
+                                "id": 15270,
+                                "name": "shrimp",
+                                "localizedName": "shrimp",
+                                "image": "shrimp.png"
+                            }
+                        ],
+                        "equipment": [],
+                        "length": {
+                            "number": 3,
+                            "unit": "minutes"
+                        }
+                    },
+                    {
+                        "number": 3,
+                        "step": "Remove the shrimp from the skillet.",
+                        "ingredients": [
+                            {
+                                "id": 15270,
+                                "name": "shrimp",
+                                "localizedName": "shrimp",
+                                "image": "shrimp.png"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404645,
+                                "name": "frying pan",
+                                "localizedName": "frying pan",
+                                "image": "pan.png"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 4,
+                        "step": "Add the red bell pepper and yellow onion to the skillet and stir-fry for 2 minutes or until the vegetables are tender-crisp.",
+                        "ingredients": [
+                            {
+                                "id": 11821,
+                                "name": "red pepper",
+                                "localizedName": "red pepper",
+                                "image": "red-pepper.jpg"
+                            },
+                            {
+                                "id": 10511282,
+                                "name": "yellow onion",
+                                "localizedName": "yellow onion",
+                                "image": "brown-onion.png"
+                            },
+                            {
+                                "id": 11583,
+                                "name": "vegetable",
+                                "localizedName": "vegetable",
+                                "image": "mixed-vegetables.png"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404645,
+                                "name": "frying pan",
+                                "localizedName": "frying pan",
+                                "image": "pan.png"
+                            }
+                        ],
+                        "length": {
+                            "number": 2,
+                            "unit": "minutes"
+                        }
+                    },
+                    {
+                        "number": 5,
+                        "step": "Add the garlic, ginger root and crushed red pepper to the skillet and stir-fry for 30 seconds. Return the shrimp to the skillet. Stir in the concentrated broth, soy sauce, sugar and water and cook for 1 minute or until the mixture is hot.",
+                        "ingredients": [
+                            {
+                                "id": 1032009,
+                                "name": "red pepper flakes",
+                                "localizedName": "red pepper flakes",
+                                "image": "red-pepper-flakes.jpg"
+                            },
+                            {
+                                "id": 11216,
+                                "name": "ginger",
+                                "localizedName": "ginger",
+                                "image": "ginger.png"
+                            },
+                            {
+                                "id": 16124,
+                                "name": "soy sauce",
+                                "localizedName": "soy sauce",
+                                "image": "soy-sauce.jpg"
+                            },
+                            {
+                                "id": 11215,
+                                "name": "garlic",
+                                "localizedName": "garlic",
+                                "image": "garlic.png"
+                            },
+                            {
+                                "id": 15270,
+                                "name": "shrimp",
+                                "localizedName": "shrimp",
+                                "image": "shrimp.png"
+                            },
+                            {
+                                "id": 1006615,
+                                "name": "broth",
+                                "localizedName": "broth",
+                                "image": "chicken-broth.png"
+                            },
+                            {
+                                "id": 19335,
+                                "name": "sugar",
+                                "localizedName": "sugar",
+                                "image": "sugar-in-bowl.png"
+                            },
+                            {
+                                "id": 14412,
+                                "name": "water",
+                                "localizedName": "water",
+                                "image": "water.png"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404645,
+                                "name": "frying pan",
+                                "localizedName": "frying pan",
+                                "image": "pan.png"
+                            }
+                        ],
+                        "length": {
+                            "number": 1,
+                            "unit": "minutes"
+                        }
+                    },
+                    {
+                        "number": 6,
+                        "step": "Remove the skillet from the heat and stir in the sesame oil.",
+                        "ingredients": [
+                            {
+                                "id": 4058,
+                                "name": "sesame oil",
+                                "localizedName": "sesame oil",
+                                "image": "sesame-oil.png"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404645,
+                                "name": "frying pan",
+                                "localizedName": "frying pan",
+                                "image": "pan.png"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 7,
+                        "step": "Sprinkle the shrimp mixture with the sesame seeds and green onion.",
+                        "ingredients": [
+                            {
+                                "id": 12023,
+                                "name": "sesame seeds",
+                                "localizedName": "sesame seeds",
+                                "image": "sesame-seeds.png"
+                            },
+                            {
+                                "id": 11291,
+                                "name": "green onions",
+                                "localizedName": "green onions",
+                                "image": "spring-onions.jpg"
+                            },
+                            {
+                                "id": 15270,
+                                "name": "shrimp",
+                                "localizedName": "shrimp",
+                                "image": "shrimp.png"
+                            }
+                        ],
+                        "equipment": []
+                    }
+                ]
+            }
+        ],
+        "originalId": null,
+        "spoonacularSourceUrl": "https://spoonacular.com/asian-shrimp-stir-fry-631748"
+      }

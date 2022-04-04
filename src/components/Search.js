@@ -23,14 +23,14 @@ export const Search = () => {
 
   return (
     <>
-    {/* { token &&  */}
+    { token && 
     <form className="form-search" onSubmit={handleSubmit}>
       <label className="form-label input-group-sm ">
         <input className="form-control" type="text" name="keyword" placeholder="Search some plate here"/>
       </label>
       <button type="submit" className="btn btn-outline-light btn-sm">Search</button>
     </form>
-    {/* } */}
+    }
     </>
   )
 }
